@@ -1,4 +1,4 @@
-# Timh Ergo
+# Homebrew Ergo Formula
 
 ## How do I install these formulae?
 
@@ -16,3 +16,9 @@ brew "<formula>"
 ## Documentation
 
 `brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+
+
+## Disclaimer
+
+This is the output of a quick ChatGPT prompt, not vetted or tested for
+robustness
